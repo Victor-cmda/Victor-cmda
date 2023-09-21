@@ -7,7 +7,7 @@
 
 - 🌱 Estou Apredendo **ReactJS/TS, NextJS, Python**
 - 💬 Me pergunte sobre **C#, .NetCore, Akka.Net, AngularJs, Angular 10, HTML, Javascript**
-- 
+  
 <h3>📕 Sobre mim</h3>
 - 🌍 De São Miguel/PR para o Mundo</br>
 - 🚩 Atualmente morando em Foz do Iguaçu/PR</br>
