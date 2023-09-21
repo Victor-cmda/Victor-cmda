@@ -6,11 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor21420@gmail.com)
 
 - 🌱 Estou Apredendo **ReactJS/TS, NextJS, Python**
-- 💬 Me pergunte sobre **C#, .NetCore, AngularJs, Angular 10, HTML, Javascript**
-
-![snake gif](https://github.com/Victor-cmda/Victor-cmda/blob/output/github-contribution-grid-snake.svg)
-
-
+- 💬 Me pergunte sobre **C#, .NetCore, Akka.Net, AngularJs, Angular 10, HTML, Javascript**
+- 
 <h3>📕 Sobre mim</h3>
 - 🌍 De São Miguel/PR para o Mundo</br>
 - 🚩 Atualmente morando em Foz do Iguaçu/PR</br>
