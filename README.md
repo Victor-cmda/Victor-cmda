@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor21420@gmail.com)
 
 
-- **C#, .NetCore, Akka.Net, AngularJs, ReactJS/TS, VueJS, Vuetify, Javascript, SQL, NOSQL, Delphi, MAUI**
+- **C#, .NetCore, Akka.Net, AngularJs, ReactJS/TS, VueJS, JavaScript, SQL, NOSQL, Delphi, MAUI**
   
 <h3>📕 Sobre mim</h3>
 - 🌍 De São Miguel/PR para o Mundo</br>
