@@ -23,10 +23,6 @@ Desenvolvedor Full Stack com experiência em arquiteturas distribuídas e micros
 - 📱 Desenvolvendo sistemas PDV e soluções empresariais
 - 🎯 Explorando Cognitive Software Engineering
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-cmda&show_icons=true&theme=dracula)
-
 ### 📫 Contato
 
 - LinkedIn: [victorhugosomavilla](https://www.linkedin.com/in/victorhugosomavilla/)
