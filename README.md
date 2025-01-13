@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Victor Hugo Somavilla</h1>
+<h3 align="center">Desenvolvedor Full Stack | .NET | React | Microsserviços</h3>
 
-<!--
-**Victor-cmda/Victor-cmda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorhugosomavilla/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Full Stack com experiência em arquiteturas distribuídas e microsserviços. Apaixonado por criar soluções escaláveis e de alta performance usando .NET, React e tecnologias cloud-native.
+
+### 🛠️ Stack Tecnológico
+
+- **Backend:** C#, .NET Core, Node.js (NestJS)
+- **Frontend:** React, WinUI 3, VueJS
+- **Cloud & DevOps:** Git, CI/CD, Docker
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **Arquitetura:** Microsserviços, Message Brokers (RabbitMQ, Kafka)
+
+### 📖 Atualmente
+- 📱 Desenvolvendo sistemas PDV e soluções empresariais
+- 🎯 Explorando Cognitive Software Engineering
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-cmda&show_icons=true&theme=dracula)
+
+### 📫 Contato
+
+- LinkedIn: [victorhugosomavilla](https://www.linkedin.com/in/victorhugosomavilla/)
+- Email: victor.somavilla@aol.com
