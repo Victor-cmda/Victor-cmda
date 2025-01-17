@@ -13,7 +13,7 @@ Desenvolvedor Full Stack com experiência em arquiteturas distribuídas e micros
 
 ### 🛠️ Stack Tecnológico
 
-- **Backend:** C#, .NET Core, Node.js (NestJS)
+- **Backend:** C#, .NET Core, Node.js (NestJS), Go
 - **Frontend:** React, WinUI 3, VueJS
 - **Cloud & DevOps:** Git, CI/CD, Docker
 - **Databases:** SQL Server, PostgreSQL, MongoDB
