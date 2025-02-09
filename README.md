@@ -1,5 +1,5 @@
 <h1 align="center">Victor Hugo Somavilla</h1>
-<h3 align="center">Desenvolvedor Full Stack | .NET | React | Microsserviços</h3>
+<h3 align="center">Desenvolvedor Full Stack | .NET | React | Akka.Net</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorhugosomavilla/" target="_blank">
