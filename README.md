@@ -20,7 +20,7 @@ Desenvolvedor Full Stack com experiência em arquiteturas distribuídas e micros
 - **Arquitetura:** Microsserviços, Message Brokers (RabbitMQ, Kafka)
 
 ### 📖 Atualmente
-- 📱 Desenvolvendo sistemas PDV e soluções empresariais
+- 📱 Desenvolvendo sistemas Intermediador de pagamentor e soluções empresariais
 - 🎯 Explorando Cognitive Software Engineering
 
 ### 📫 Contato
