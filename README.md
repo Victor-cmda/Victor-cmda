@@ -76,7 +76,7 @@ Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distrib
 
 ### 💼 Experiência Profissional
 
-#### 🏢 **IntellTech** | Desenvolvedor Pleno
+#### 🏢 **IntellTech** | Analista Desenvolvedor
 *Janeiro 2025 - Atual | Foz do Iguaçu, PR*
 
 - 🔧 Implementação e correção de bugs críticos em sistema distribuído de BigData
