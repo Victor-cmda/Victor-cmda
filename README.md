@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Victor+Hugo+Somavilla;Full+Stack+Developer;.NET+%7C+React+%7C+Akka.NET" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack especializado em Sistemas Distribuídos e Alta Performance</h3>
+<h3 align="center">🚀 Analista Desenvolvedor especializado em Sistemas Distribuídos e Alta Performance</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorhugosomavilla/" target="_blank">
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack** com sólida experiência em **sistemas distribuídos** e **processamento de BigData**. Atualmente trabalho na **IntellTech** desenvolvendo soluções escaláveis para coleta e processamento de grandes volumes de dados.
+Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distribuídos** e **processamento de BigData**. Atualmente trabalho na **IntellTech** desenvolvendo soluções escaláveis para coleta e processamento de grandes volumes de dados.
 
 🎯 **Especialista em:**
 - Arquiteturas de alta performance e escalabilidade
