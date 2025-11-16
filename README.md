@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Victor+Hugo+Somavilla;Full+Stack+Developer;.NET+%7C+React+%7C+Akka.NET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=Victor+Hugo+Somavilla;Backend+%2F+Full+Stack+Developer;.NET+%7C+React+%7C+Akka.NET" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Analista Desenvolvedor especializado em Sistemas Distribuídos e Alta Performance</h3>
+<h3 align="center">🚀 Analista Desenvolvedor com foco em Sistemas Distribuídos e Alta Performance</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victorhugosomavilla/" target="_blank">
@@ -10,9 +10,6 @@
   </a>
   <a href="mailto:victor.somavilla@aol.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="tel:+5545984063065">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -24,13 +21,15 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distribuídos** e **processamento de BigData**. Atualmente trabalho na **IntellTech** desenvolvendo soluções escaláveis para coleta e processamento de grandes volumes de dados.
+Sou **Analista Desenvolvedor** com experiência em **sistemas distribuídos** e **processamento de BigData**, atuando principalmente com back-end. No dia a dia, trabalho na **IntellTech** desenvolvendo e mantendo soluções voltadas à coleta e processamento de grandes volumes de dados, sempre com foco em estabilidade, performance e código bem estruturado.
 
-🎯 **Especialista em:**
-- Arquiteturas de alta performance e escalabilidade
-- Desenvolvimento de microsserviços com Akka.NET
-- Otimização de aplicações e correção de bugs críticos
-- Integração de sistemas corporativos
+Gosto de trabalhar próximo ao problema real, entendendo a necessidade do negócio e traduzindo isso em soluções técnicas que façam sentido na prática.
+
+🎯 **Atuação em:**
+- Arquiteturas voltadas para alta performance e escalabilidade
+- Desenvolvimento de serviços e microsserviços (incluindo Akka.NET)
+- Otimização de aplicações e correção de bugs em produção
+- Integração entre sistemas corporativos e serviços externos
 
 📍 **Localização:** Foz do Iguaçu, PR - Brasil  
 🎓 **Formação:** Bacharelado em Sistemas de Informação (Conclusão: Dez/2025)
@@ -76,38 +75,38 @@ Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distrib
 
 ### 💼 Experiência Profissional
 
-#### 🏢 **IntellTech** | Analista Desenvolvedor
-*Janeiro 2025 - Atual | Foz do Iguaçu, PR*
+#### 🏢 **IntellTech** | Analista Desenvolvedor  
+*Jan 2025 - Atual | Foz do Iguaçu, PR*
 
-- 🔧 Implementação e correção de bugs críticos em sistema distribuído de BigData
-- 📊 Desenvolvimento de soluções escaláveis para processamento de grandes volumes de dados
-- 🤖 Automatização de processos de implantação e integração
-- 🚀 Manutenção e otimização de performance em projetos críticos
+- Implementação e correção de bugs em sistema distribuído de BigData  
+- Desenvolvimento de soluções escaláveis para processamento de grandes volumes de dados  
+- Automatização de processos de implantação e integração  
+- Manutenção e otimização de performance em projetos críticos  
 
 #### 🏢 **Lar Cooperativa Agroindustrial** | Desenvolvedor Pleno  
-*Janeiro 2024 - Dezembro 2024 | Medianeira, PR*
+*Jan 2024 - Dez 2024 | Medianeira, PR*
 
-- 📱 Desenvolvimento do back-end do aplicativo **LarDigital** para gestão cooperativa
-- 🔌 Integração com APIs externas de bancos e fornecedores
-- 📈 Otimização de consultas SQL e arquitetura para alta disponibilidade
-- 📊 Implementação de sistemas de gerenciamento, estoque e relatórios
+- Desenvolvimento do back-end do aplicativo **LarDigital** para gestão cooperativa  
+- Integração com APIs externas de bancos e fornecedores  
+- Otimização de consultas SQL e arquitetura para alta disponibilidade  
+- Implementação de módulos de gerenciamento, estoque e relatórios  
 
 <details>
 <summary>Ver mais experiências...</summary>
 
-#### 🏢 **IntellTech** | Desenvolvedor Júnior
-*Setembro 2022 - Janeiro 2024 | Foz do Iguaçu, PR*
+#### 🏢 **IntellTech** | Desenvolvedor Júnior  
+*Set 2022 - Jan 2024 | Foz do Iguaçu, PR*
 
-- Desenvolvimento com C#, React e Akka.NET
-- Integração de novos clientes ao sistema de BigData
-- Automatização com C# e Python
-- Scripts de monitoramento e alertas automáticos
+- Desenvolvimento com C#, React e Akka.NET  
+- Integração de novos clientes ao sistema de BigData  
+- Automatização de processos com C# e Python  
+- Criação de scripts de monitoramento e alertas automáticos  
 
-#### 🏢 **SOFT-TI Informática** | Desenvolvedor Júnior
-*Janeiro 2022 - Agosto 2022 | Foz do Iguaçu, PR*
+#### 🏢 **SOFT-TI Informática** | Desenvolvedor Júnior  
+*Jan 2022 - Ago 2022 | Foz do Iguaçu, PR*
 
-- Desenvolvimento com C#, JavaScript e Angular
-- Garantia de qualidade e funcionalidade do software
+- Desenvolvimento de aplicações web com C#, JavaScript e AngularJS  
+- Apoio em testes e garantia de qualidade das entregas  
 
 </details>
 
@@ -128,8 +127,8 @@ Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distrib
 
 ### 🎯 Competências
 
-- **Metodologias:** Agile, Scrum, Code Review, Clean Code
-- **Soft Skills:** Resolução de problemas complexos, Trabalho em equipe, Comunicação técnica eficaz
+- **Metodologias:** Agile, Scrum, Code Review, Clean Code  
+- **Soft Skills:** Resolução de problemas, Trabalho em equipe, Comunicação técnica  
 - **Idiomas:** 🇧🇷 Português (Nativo) | 🇺🇸 Inglês (Intermediário)
 
 ---
@@ -137,7 +136,7 @@ Sou um **Analista Desenvolvedor** com sólida experiência em **sistemas distrib
 ### 📫 Vamos Conversar!
 
 <p align="center">
-  <i>Estou sempre aberto a novas oportunidades e desafios. Se você procura um desenvolvedor comprometido com qualidade e resultados, vamos conversar!</i>
+  <i>Aberto a trocar ideia sobre tecnologia, arquitetura, carreira e novas oportunidades.</i>
 </p>
 
 <div align="center">
