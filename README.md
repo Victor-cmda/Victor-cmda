@@ -26,7 +26,7 @@ Experiência com mensageria, pipelines de dados, integrações corporativas e au
 - RabbitMQ  
 - Processamento de dados em alta escala
 
-### Frontend (apoio)
+### Frontend
 - React, TypeScript, JavaScript  
 
 ### Ferramentas e Práticas
