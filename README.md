@@ -1,70 +1,59 @@
-<h1 align="center">Victor Hugo Somavilla</h1>
-<p align="center"><strong>Backend Developer • .NET • Distributed Systems • Data Engineering</strong></p>
+# Victor Hugo Somavilla  
+**Backend Developer | .NET | Distributed Systems | Data Engineering**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victorhugosomavilla/">LinkedIn</a> • 
-  <a href="mailto:victor.somavilla@aol.com">Email</a>
-</p>
+📍 LinkedIn: https://www.linkedin.com/in/victorhugosomavilla/  
+📧 Email: victor.somavilla@aol.com  
 
 ---
 
-## 👨‍💻 Sobre Mim
-Desenvolvedor com foco em **back-end**, atuando com **.NET**, **sistemas distribuídos** e **processamento de dados**.  
-Trabalho construindo serviços resilientes, escaláveis e orientados a desempenho, sempre com foco em clareza arquitetural e soluções sustentáveis.
+## Sobre
+Desenvolvedor back-end com experiência em **.NET**, **sistemas distribuídos** e **engenharia de dados**.  
+Atuo no desenvolvimento de serviços escaláveis, resilientes e orientados a desempenho, com foco em arquitetura clara e entregas confiáveis.
 
-Tenho experiência em pipelines de dados, mensageria, aplicações distribuídas e integrações corporativas.  
-Prezo por código limpo, boas práticas, automação e entregas confiáveis.
+Experiência com mensageria, pipelines de dados, integrações corporativas e automação de processos.
 
 ---
 
-## 🛠️ Tecnologias & Competências
+## Competências Técnicas
 
 ### Backend
-- **C# • .NET • ASP.NET**
-- **Akka.NET** (concorrência e distribuição)
-- Python (scripts e automações)
+- C#, .NET, ASP.NET  
+- Akka.NET  
+- Python (automação e scripts)
 
-### Dados & Sistemas Distribuídos
-- **SQL Server**, **PostgreSQL**
-- Mensageria: **RabbitMQ**
+### Dados e Sistemas Distribuídos
+- SQL Server, PostgreSQL  
+- RabbitMQ  
 - Processamento de dados em alta escala
 
-### Frontend (suporte)
-- **React**, TypeScript, JavaScript
+### Frontend (apoio)
+- React, TypeScript, JavaScript  
 
-### Ferramentas & Práticas
-- Docker, Git
-- Clean Architecture, Clean Code
-- Observabilidade básica (logs, métricas)
-- Integrações e APIs
+### Ferramentas e Práticas
+- Docker, Git  
+- Clean Architecture, Clean Code  
+- Logs, métricas e observabilidade básica  
+- APIs e integrações
 
 ---
 
-## 📌 O que eu faço hoje
-- Desenvolvimento de serviços back-end de alta confiabilidade  
+## Atuação Atual
+- Desenvolvimento de serviços back-end críticos  
 - Arquitetura e implementação de soluções distribuídas  
-- Pipelines de dados e integrações com alto volume  
+- Pipelines de dados e integrações de alto volume  
+- Otimização de performance e estabilidade  
 - Automação de processos internos  
-- Otimização de consultas, performance e estabilidade do sistema  
 
 ---
 
-## 🎯 Interesses Atuais
+## Interesses
 - Arquitetura distribuída  
-- Processamento de dados e streaming  
-- Otimização de performance  
 - Sistemas orientados a eventos  
+- Streaming e processamento de dados  
+- Performance e escalabilidade  
 
 ---
 
-## 📊 GitHub
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-cmda&show_icons=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-cmda&layout=compact&theme=github_dark" />
-</div>
-
----
-
-## 📫 Contato
-**Email:** victor.somavilla@aol.com  
-**LinkedIn:** linkedin.com/in/victorhugosomavilla
+## Contato
+📧 victor.somavilla@aol.com  
+🔗 linkedin.com/in/victorhugosomavilla  
